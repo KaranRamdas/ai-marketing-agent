@@ -2,7 +2,7 @@
 
 Watch the agent in action:
 
-[![AI Marketing Analytics Agent Demo](https://www.youtube.com/watch?v=UmHwuiwwzkY)]
+**[AI Marketing Analytics Agent Demo](https://www.youtube.com/watch?v=UmHwuiwwzkY)**
 
 **Click above to watch the full demo on YouTube**
 
